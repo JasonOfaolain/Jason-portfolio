@@ -3,12 +3,6 @@
   box-sizing: border-box;
 }
 
-body {
-  color: white;
-  padding: 10px;
-  background-color: orange;
-}
-
 header {
   font-size: 80px;
   color: greenyellow;
@@ -25,15 +19,10 @@ ul {
   width: 0;
 }
 
-ul {
-  font-size: 50px;
-  color:whitesmoke;
-}
-
-ul li {
+li a {
   display: inline;
   font-size: 50px;
-  color: whitesmoke;
+  color: orangered;
 }
 
 .contact-about {

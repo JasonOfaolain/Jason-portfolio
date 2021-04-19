@@ -3,11 +3,7 @@
             box-sizing: border-box;
   }
   
-  body {
-    color: white;
-    padding: 10px;
-    background-color: orange;
-  }
+  
   
   header {
     font-size: 80px;
@@ -23,16 +19,10 @@
     padding: 2%;
     width: 0;
   }
-  
-  ul {
-    font-size: 50px;
-    color: greenyellow;
-  }
-  
-  ul li{
+  li a {
     display: inline;
     font-size: 50px;
-    color: greenyellow;
+    color: orangered;
   }
   
   .contact-about {
