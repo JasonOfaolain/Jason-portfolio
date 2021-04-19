@@ -127,4 +127,10 @@ img {
   justify-content: center font-weight bold;
   text-align: center;
 }
+
+.Blog img-container {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=main.css.map */
