@@ -1,6 +1,6 @@
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -14,14 +14,12 @@ header {
   color: greenyellow;
 }
 
-
-
 ul {
   display: inline-block;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   padding: 2%;
   width: 0;
 }
@@ -31,7 +29,7 @@ ul h3 {
   color: greenyellow;
 }
 
-ul-link {
+ul link {
   display: inline;
   font-size: 50px;
   color: greenyellow;
@@ -42,12 +40,12 @@ ul-link {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 
 .about div {
@@ -68,11 +66,11 @@ body {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   padding: 2%;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
 .container img {
@@ -82,8 +80,8 @@ body {
 .container .container
 .item {
   -webkit-box-flex: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
   height: 300px;
   background-color: darkred;
   position: relative;
@@ -95,11 +93,11 @@ body {
 .container .container
 .item:hover {
   -webkit-box-flex: 4.3;
-      -ms-flex-positive: 4.3;
-          flex-grow: 4.3;
+  -ms-flex-positive: 4.3;
+  flex-grow: 4.3;
   background-color: #e600e6;
   -webkit-transform: translate(-10%, -30%);
-          transform: translate(-10%, -30%);
+  transform: translate(-10%, -30%);
   color: whitesmoke;
 }
 
@@ -110,7 +108,7 @@ body {
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   color: black;
 }
 
@@ -126,11 +124,11 @@ body {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-flow: column;
-          flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
   -webkit-box-pack: center font-weight bold;
-      -ms-flex-pack: center font-weight bold;
-          justify-content: center font-weight bold;
+  -ms-flex-pack: center font-weight bold;
+  justify-content: center font-weight bold;
   text-align: center;
 }
 /*# sourceMappingURL=main.css.map */
