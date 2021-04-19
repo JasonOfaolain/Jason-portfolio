@@ -6,12 +6,13 @@
 body {
   color: white;
   padding: 10px;
-  background-color: blue;
+  background-color: orange;
 }
 
-.header {
+header {
   font-size: 80px;
   color: greenyellow;
+  text-align: center;
 }
 
 ul {
@@ -24,15 +25,15 @@ ul {
   width: 0;
 }
 
-ul h3 {
+ul {
   font-size: 50px;
-  color: greenyellow;
+  color:whitesmoke;
 }
 
-ul link {
+ul li {
   display: inline;
   font-size: 50px;
-  color: greenyellow;
+  color: whitesmoke;
 }
 
 .contact-about {
