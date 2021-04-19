@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+p {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
 header {
   font-size: 80px;
   color: greenyellow;
@@ -63,8 +68,9 @@ body {
   flex-wrap: wrap;
 }
 
-.container img {
-  width: 400px;
+img {
+  max-width: 50%;
+  height: auto;
 }
 
 .container .container

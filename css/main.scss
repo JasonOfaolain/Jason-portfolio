@@ -1,6 +1,11 @@
 *{
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+
+  p{
+    color:whitesmoke;
+    font-size: 20px;
   }
   
   
@@ -63,9 +68,11 @@
         flex-wrap: wrap;
   }
   
-  .container img {
-    width: 400px;
-  }
+ img {
+     max-width: 50%;
+    height: auto;
+ }
+  
   
   .container .container
   .item {
@@ -121,3 +128,4 @@
             justify-content: center font-weight bold;
     text-align: center;
   }
+
