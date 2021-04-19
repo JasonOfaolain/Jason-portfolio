@@ -9,7 +9,7 @@ body {
   background-color: blue;
 }
 
-header {
+.header {
   font-size: 80px;
   color: greenyellow;
 }
@@ -35,7 +35,7 @@ ul link {
   color: greenyellow;
 }
 
-.about {
+.contact-about {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -48,7 +48,7 @@ ul link {
   flex-direction: row;
 }
 
-.about div {
+.contact-about div {
   width: 40%;
   height: auto;
 }

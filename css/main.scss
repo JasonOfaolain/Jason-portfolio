@@ -1,4 +1,4 @@
-* {
+*{
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
   }
@@ -9,7 +9,7 @@
     background-color: blue;
   }
   
-  header {
+  .header {
     font-size: 80px;
     color: greenyellow;
   }
@@ -34,7 +34,7 @@
     color: greenyellow;
   }
   
-  .about {
+  .contact-about {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -47,7 +47,7 @@
             flex-direction: row;
   }
   
-  .about div {
+  .contact-about div {
     width: 40%;
     height: auto;
   }
