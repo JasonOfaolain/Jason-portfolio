@@ -14,6 +14,18 @@ header {
   text-align: center;
 }
 
+h1 {
+  font-size: 40px;
+  color: deeppink;
+  text-align: center;
+}
+
+footer {
+  font-size: 20px;
+  color: aquamarine;
+  text-align: left;
+}
+
 ul {
   display: inline-block;
   -webkit-box-orient: vertical;
@@ -35,6 +47,12 @@ li a {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.giphy-embed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer {
