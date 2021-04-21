@@ -28,6 +28,14 @@ h2 {
   padding: 10px;
 }
 
+h3 {
+  font-style: italic;
+  font-size: 30 px;
+  color: lightsalmon;
+  padding: 10px;
+  margin: auto;
+}
+
 footer {
   font-size: 20px;
   color: aquamarine;
@@ -113,7 +121,7 @@ img {
   height: auto;
 }
 
-.container .container
+/* .container .container
 .item {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
@@ -124,9 +132,9 @@ img {
   border: 1px solid #1a1a1a;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
-}
+} */
 
-.container .container
+/* .container .container
 .item:hover {
   -webkit-box-flex: 4.3;
   -ms-flex-positive: 4.3;
@@ -135,9 +143,9 @@ img {
   -webkit-transform: translate(-10%, -30%);
   transform: translate(-10%, -30%);
   color: whitesmoke;
-}
+} */
 
-.container .container
+/* .container .container
 .item:before {
   content: attr(data-order);
   position: absolute;
@@ -146,14 +154,14 @@ img {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: black;
-}
+} */
 
 .container img {
   max-width: 100%;
   height: auto;
 }
 
-.container .blog-words
+/* .container .blog-words
 .Blog-card {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -166,5 +174,5 @@ img {
   -ms-flex-pack: center font-weight bold;
   justify-content: center font-weight bold;
   text-align: center;
-}
-/*# sourceMappingURL=main.css.map */
+} */
+/* # sourceMappingURL=main.css.map */

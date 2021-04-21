@@ -24,6 +24,13 @@
     text-align: left;
     padding:10px;
   }
+  h3 {
+    font-style: italic;
+    font-size: 30 px;
+    color: lightsalmon;
+    padding: 10px;
+    margin: auto;
+  }
   footer {
     font-size: 20px;
     color:aquamarine;
@@ -101,7 +108,10 @@
      max-width: 50%;
     height: auto;
  }
-  
+  .pic {
+    display:block
+    justify-content flex-end
+  }
   
   .container .container
   .item {
