@@ -96,16 +96,17 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
+html {
+  background: url(Jason-portfolio/images/colorkeyboard.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
 .footer {
   text-align: center;
 }
 
-html {
- background: url(/Jason-portfolio/images/color\ key\ board.jfif) no-repeat center center fixed;
- -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+body {
+  background-color: black;
 }
 
 .container {
