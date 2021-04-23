@@ -100,8 +100,12 @@ input[type=text], select, textarea {
   text-align: center;
 }
 
-body {
-  background-color: black;
+html {
+ background: url(/Jason-portfolio/images/color\ key\ board.jfif) no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .container {
