@@ -121,10 +121,6 @@ img {
   height: auto;
 }
 
-.pic {
-  display: block justify-content flex-end;
-}
-
 .container .container
 .item {
   -webkit-box-flex: 1;
