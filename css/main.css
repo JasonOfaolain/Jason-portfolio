@@ -101,11 +101,6 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
-html {
-  background: url(https://photos.google.com/u/3/photo/AF1QipNhvpHtXMwRg89hbFmTQb89ySc5o9YmcuCekJwz) no-repeat center center fixed;
-  background-size: cover;
-}
-
 .footer {
   text-align: center;
 }
