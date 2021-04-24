@@ -3,73 +3,84 @@
   box-sizing: border-box;
   }
 
-  p{
-    color:whitesmoke;
-    font-size: 20px;
-  }
-   header {
-    font-size: 80px;
-    color: greenyellow;
-    text-align: center;
-  }
-  h1 {
-    font-size: 40px;
-    color: deeppink;
-    text-align: center;
-  }
-  h2 {
-    font-style: italic;
-    font-size: 30px;
-    color: limegreen;
-    text-align: left;
-    padding:10px;
-  }
-  h3 {
-    font-style: italic;
-    font-size: 30 px;
-    color: lightsalmon;
-    padding: 10px;
-    margin: auto;
-  }
-  footer {
-    font-size: 20px;
-    color:aquamarine;
-    text-align: left;
-  }
-  ul {
-    display: inline-block;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    padding: 2%;
-    width: 0;
-  }
-  li a {
-    display: inline;
-    font-size: 50px;
-    color: orangered;
-  }
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-  .giphy-embed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-   a:hover {
-     color: mediumseagreen;
-     background-color: transparent;
-     text-decoration: underline;
-   }
-   a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
+html{
+    background: url("https://lh3.googleusercontent.com/JRKE9E0Ulj6kcJdpaudXg1qkw6WCSDOM-hU06FcA3FbcFwT2S6IyR_NKiCgPzgXLzcw5GmtyKEt-9csY41onGTqiKul3V3wqSqJrPghoOr8BUiw0zb8HoTnUzrXE4F8AeIp2GLbEDwmuZ7dDKmfvEStvF34jMuCF_dkkOLbQ2vNvR_diZThiEFkHUGy53DE5AfEgFIniu4_6y_7AS5GMhBgp7E4b2KeHbQPrP-okp0ky6tEv1xAB0H_iBp7TQW2z74Nv4jsCqDlG7Mqpd8tVDCfG-pjVle8IZSiECx4IPgqxfiA4A9-l5ZVvO8P9qMXzLzxAZpFuPd7jFKZyKk1a3Bfef7rm-Uzp_CelUkKLaG72re1mebSgCMO_8g9U3FbIBmfWliygf9AwJaW2CL1BveWNknwMXvqJhdul2sGxEBR-2yp4sRm7obddIvd91tExvI_u4zZ5wmqHPbvR5kOwSMpjDiyhtxlSQwxxTiEj1eMvEF4CDpTifH50BghX8wXh2kmw2BHDWiw0dhtdZRMpkr_MtpB7FbKD8kI70hHVYAfeFHsGm0U-0205ckFFtMYVvZFNA2pPZFniUTqkkfn-Q1-yTJRHzxLZujsI4evMvqYjIBFgm_ZWOkcZMUjGPG2Vl7itjJdNQvbpUhdzG7GZ0gl5MKOrzLUZIfQKFc6ftE6_KiLjxjIiMIQpSYF5i2fYm4UjCtjXYzdSbawVawO5-A=w1050-h700-no?authuser=3") no-repeat center center fixed;
+    background-size: cover;
+}
+p{
+  color:whitesmoke;
+  font-size: 20px;
+}
+
+header {
+  font-size: 80px;
+  color: greenyellow;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  color: deeppink;
+  text-align: center;
+}
+  
+h2 {
+  font-style: italic;
+  font-size: 30px;
+  color: limegreen;
+  text-align: left;
+  padding:10px;
+}
+h3 {
+  font-style: italic;
+  font-size: 30 px;
+  color: lightsalmon;
+  padding: 10px;
+  margin: auto;
+}
+footer {
+  font-size: 20px;
+  color:aquamarine;
+  text-align: left;
+}
+ul {
+  display: inline-block;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 2%;
+  width: 0;
+}
+
+li a {
+  display: inline;
+  font-size: 50px;
+  color: orangered;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.giphy-embed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+  color: mediumseagreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
     font-size: 50px;
    }
    input[type=text], select, textarea{
