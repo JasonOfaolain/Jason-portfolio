@@ -73,30 +73,30 @@
     font-size: 50px;
    }
    input[type=text], select, textarea{
-     width: 100%;
-     padding: 12px;
-     border: 1px solid;
-     border-radius: 4px;
-     box-sizing: border-box;
-     margin-top: 6px; 
+    width: 100%;
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px; 
     margin-bottom: 16px; 
     resize: vertical 
    }
    html {
-    background: url(Jason-portfolio/images/colorkeyboard.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
+    background: url(https://photos.google.com/u/3/photo/AF1QipNhvpHtXMwRg89hbFmTQb89ySc5o9YmcuCekJwz) no-repeat center center fixed;
+    // -webkit-background-size: cover;
+    //  -moz-background-size: cover;
+    //  -o-background-size: cover;
+    background-size: cover;
    }
   
   .footer {
     text-align: center;
   }
   
-  body {
-    background-color: black;
-  }
+  // body {
+  //   background-color: black;
+  // }
   
   .container {
     display: -webkit-box;
