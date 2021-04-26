@@ -1,4 +1,4 @@
-# Jason-portfolio
+# Jason-portfolio Web site
 
 ## URL 
 
@@ -11,7 +11,7 @@
 ## Portfolio Description
 
 ### -Purpose
-
+The purpose of this assignment is to showcase the skills i have learnt so far, such as HTML5, CSS3,SASS, Flexbox and Responsive design.
 ### -Functionality/Features
 
 ### -Sitemap
